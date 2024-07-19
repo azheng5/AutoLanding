@@ -1,1 +1,1 @@
-Autonomous landing of spacecraft
+Optimal Control and Reinforcement Learning Course
